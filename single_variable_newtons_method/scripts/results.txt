@@ -1,0 +1,40 @@
+-------------------
+Enter the **number of coefficients** of the polynomial followed by its coefficients:
+Total roots: 1
+Roots:
+===========
+3.000000
+===========
+-------------------
+
+-------------------
+Enter the **number of coefficients** of the polynomial followed by its coefficients:
+Total roots: 2
+Roots:
+===========
+1.720759 - 0.000000i
+-0.387426 + 0.000000i
+===========
+-------------------
+
+-------------------
+Enter the **number of coefficients** of the polynomial followed by its coefficients:
+Total roots: 3
+Roots:
+===========
+4.398648 - 0.000000i
+-3.019697 + 0.000000i
+-33.878951 - 0.000000i
+===========
+-------------------
+
+-------------------
+Enter the **number of coefficients** of the polynomial followed by its coefficients:
+Total roots: 2
+Roots:
+===========
+0.666667 + 0.471405i
+0.666667 - 0.471405i
+===========
+-------------------
+
